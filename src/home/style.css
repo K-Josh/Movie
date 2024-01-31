@@ -1,0 +1,35 @@
+.icon {
+    color: #fff;
+    font-size: 1.1rem;
+}
+
+/* @media (min-width: 475px) {
+    .icon {
+        position: relative;
+        left: 12rem;
+    }
+}
+@media (min-width: 768px) {
+    .icon {
+        position: relative;
+        left: 53rem;
+    }
+}
+@media (min-width: 1024px) {
+    .icon {
+        position: relative;
+        left: 55rem;
+    }
+}
+@media (min-width: 1280px) {
+    .icon {
+        position: relative;
+        left: 63rem;
+    }
+}
+@media (min-width: 1536px) {
+    .icon {
+        position: relative;
+        left: 63rem;
+    }
+} */
