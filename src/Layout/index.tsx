@@ -24,7 +24,7 @@ const Layout = ({ children }: LayoutProps) => {
         width: "100vw"
     }}>
         <Sidebar />
-        <Box sx={{width: '100%', overflowY: "scroll"}}>{children}</Box>
+        <Box sx={{width: '100%', height: "100vh", overflowY: "scroll"}}>{children}</Box>
     </Box>
   )
 }
